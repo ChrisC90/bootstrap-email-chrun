@@ -27,7 +27,7 @@
 
     <div class="container mt-4">
         <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-4 d-none d-md-block">
                 <!--sidebar-->
                 <div class="sidebar">
                     <a href="#" class="list-group-item list-group-item-action active">Inbox</a>
@@ -39,9 +39,13 @@
                     <a href="#" class="list-group-item list-group-item-action">Personal</a>
                     <a href="#" class="list-group-item list-group-item-action">Trash</a>
                 </div>
+                <div class="d-none d-md-flex w-100 border justify-content-center">
+                    <button class="btn btn-md btn-primary compose-button">Compose</button>
+                </div>
             </div>
+            
 
-            <div class="col-md-8">
+            <div class="col-md-8 mt-5">
                 <!--message-->
                 <ul class="list-group">
                     <li class="list-group-item">Message 1</li>
@@ -52,9 +56,12 @@
                     <li class="list-group-item">Message 3</li>
                     <li class="list-group-item">Message 3</li>
                 </ul>
+                <div class="d-sm-block d-md-none w-100 border d-flex justify-content-center">
+                    <button class="btn btn-md btn-primary compose-button">Compose</button>
+                </div> 
                 
                 <!--reply-->
-                <div class="message">
+                <div class="message d-none d-xl-block">
                     <h2>Message Subject</h2>
                     <div class="message-box">
                         <textarea class="editable-message" rows="6" placeholder="Type your message here..."></textarea>
@@ -65,8 +72,6 @@
         </div>
     </div>
 
-    <div class="col-6">
-        <button class="btn btn-primary compose-button">Compose</button>
-    </div>
+    
 </body>
 </html>

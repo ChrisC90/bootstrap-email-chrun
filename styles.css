@@ -10,6 +10,7 @@
     }
 }
 
+
 header {
     background-color: #007bff;
     color: #fff;
@@ -35,8 +36,7 @@ header h1 {
     background-color: #01A3AD;
     padding: 20px;
     border-right: 1px solid #01A3AD; 
-    margin-top: 80px;
-    margin-right: 80px;
+    margin: 60px auto;
 }
 
 /* sidebar list */
@@ -86,10 +86,11 @@ header h1 {
     resize: vertical; /* Allows vertical resizing of the textarea */
 }
 
+
 .compose-button {
-    position: absolute;
-    bottom: 70px;
-    left: 36%;
-    transform: translateX(-50%);
+    margin: 0 auto;
+    background-color: white !important;
+    color: black !important;
+    
 }
 /* Add more styles for responsiveness and customization */
