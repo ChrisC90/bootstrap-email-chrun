@@ -1,0 +1,73 @@
+Dev Log - BVT - Chrun
+
+Thursday 9/21/23 - 5:00pm - 6:00pm
+
+- Created framework for email
+- Created 2 sketches (phone, iPad & computer)
+- Added colors, text and columns
+- Putting together ideas for project
+
+Friday 9/22/23 - 2:42pm - 4:00pm
+- Finished up framework for email
+- Created last sketch for desktop version
+- Completed framework
+
+Monday 9/25/23 - 8:00pm - 9:30pm
+
+- Feeling a bit of imposter syndrome
+- Watched freecodecamp.org on youtube to try and learn more about bootstrap
+- Created compose button
+- Created search bar
+- Created side bar
+
+Tuesday 9/26/23 - 5:54pm - 7:00pm
+
+- Watched the same video on youtube
+- Trying to learn more about column css grid
+- Working on how to set up what I want for each screen size
+- Trying to figure out how the CSS works
+
+Saturday 9/30/23 - 3:21pm - 5:00pm
+
+- Worked on design and styling
+- CSS
+- Finally able to figure out media query
+- Still trying to figure out col
+- Made minor adjustments
+
+Monday 10/2/23 5:30pm - 7:30pm
+
+- Moved around columns to right location
+- Css
+- Made minor updates
+
+Tuesday 10/3/23 7:42pm - 9:00pm
+- Still trying to figure out how to make messages take up full screen in phone size
+- Making changes to CSS for phone size
+- Trying to get logo into compose button box
+
+Wednesday 10/4/23 3:30pm - 4:55pm
+
+- Worked on trying to get pencil logo into the compose button box
+- CSS
+- Tried to get messages to take up whole screen in phone view. (X)
+
+Saturday 10/7/23 8:55pm - 10:11pm
+
+- Still having trouble getting codes to take full space of phone screen
+- Restarted project
+- Recoded everything
+- Watched more bootstrap videos
+- Problem with compose button on every screen
+
+Sunday 10/8/23 8:31pm - 10:21pm
+
+- Got help from Tania adjust COL codes
+- Finally understand how COL works
+- CSS
+- Redo codes
+- Created new repo
+- Looked at wireframes (bit off more than I could chew)
+- Finished?
+
+
