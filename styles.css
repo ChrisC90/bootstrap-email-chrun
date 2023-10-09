@@ -23,12 +23,11 @@ header h1 {
 
 .search-button {
     background-color: white !important;
-    border: 1px solid black !important;
     color: black !important;
 }
 
 .search-button:hover {
-    background-color: black !important;
+    background-color: lightgrey !important;
     color: white !important;
 }
 
@@ -43,18 +42,9 @@ header h1 {
 .sidebar .list-group-item {
     border: none; 
     border-radius: 0; 
-    background-color: lightgrey;
-}
-
-.sidebar .list-group-item.active {
-    background-color: #007bff;
-    color: #fff;
-    border-color: #007bff;
-}
-
-.list-group-item.active {
-    background-color: #007bff;
-    border-color: #007bff;
+    border: 1px solid #ddd;
+    background-color: white;
+    color: black;
 }
 
 .list-group {
@@ -63,6 +53,10 @@ header h1 {
 
 .list-group-item {
     border-top: 1px solid #ddd;
+}
+
+.list-group-item:hover {
+    background-color: lightgrey; 
 }
 
 .message {
@@ -91,5 +85,11 @@ header h1 {
     margin: 0 auto;
     background-color: white !important;
     color: black !important;
-    border: 2px solid black !important;
+    border: 60px solid #01A3AD !important;
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s !important; 
+}
+
+.compose-button:hover {
+    background-color: lightgrey !important; 
+    color: black !important; 
 }
