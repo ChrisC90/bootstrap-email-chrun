@@ -67,8 +67,8 @@ header h1 {
 
 .message {
     margin-top: 20px;
-    border: 1px solid #ddd; /* Add a border to the message section */
-    padding: 20px; /* Add padding to the message section for spacing */
+    border: 1px solid #ddd; 
+    padding: 20px; 
 }
 
 .message-box {
@@ -78,12 +78,12 @@ header h1 {
     margin-top: 10px;
 }
 
-/* Style the editable textarea */
+/* style textarea */
 .editable-message {
     width: 100%;
     border: 1px solid #ddd;
     padding: 10px;
-    resize: vertical; /* Allows vertical resizing of the textarea */
+    resize: vertical; /*vertical resizing*/
 }
 
 
@@ -93,4 +93,3 @@ header h1 {
     color: black !important;
     
 }
-/* Add more styles for responsiveness and customization */
