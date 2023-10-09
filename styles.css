@@ -12,7 +12,7 @@
 
 
 header {
-    background-color: #007bff;
+    background-color: #01A3AD;
     color: #fff;
     padding: 20px 0;
 }
@@ -91,5 +91,5 @@ header h1 {
     margin: 0 auto;
     background-color: white !important;
     color: black !important;
-    
+    border: 2px solid black !important;
 }
